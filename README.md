@@ -1,1 +1,1 @@
-## I will type but not now :joy: 
+## LEt's create a snake game with javascript CANVAS API
